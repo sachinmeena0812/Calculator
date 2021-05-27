@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    /* background-color: red; */
+    text-align: center;
+    height: 100vh;
+}
+
+.container h1 {
+    font-size: 80px
+}
+
+.calc {
+    background-color: black;
+    width: 25%;
+    border-radius: 27px;
+    margin: auto;
+    padding: 36px 31px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    padding: 6px;
+    font-size: 41px;
+    margin: 12px 4px;
+    width: 341px;
+    border: 2px white solid;
+    color: white;
+    background: black;
+}
+
+.btn {
+    padding: 5px;
+    font-size: 40px;
+    background: #191919;
+    margin: 5px 7px;
+    width: 64px;
+    border: 2px solid white;
+    border-radius: 35px;
+    cursor: pointer;
+    color: white;
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+.yellow {
+    background-color: #ff7100;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.green {
+    background-color: green;
+}
